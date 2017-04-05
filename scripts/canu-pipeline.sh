@@ -112,7 +112,7 @@ sleep 5
 #. `dirname $0`/../torque/install.sh
 
 echo "Starting torque"
-/usr/local/scripts/torque/start.sh
+/usr/local/scripts/torque/launch.sh
 
 sleep 15
 
